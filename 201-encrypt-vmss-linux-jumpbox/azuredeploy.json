@@ -11,12 +11,12 @@
     },
     "linuxOSVersion": {
       "type": "string",
-      "defaultValue": "TestUbuntuServer",
+      "defaultValue": "CentOS",
       "allowedValues": [
-        "TestUbuntuServer"
+        "CentOS"
       ],
       "metadata": {
-        "description": "The Linux distro for the VM. Allowed values: TestUbuntuServer."
+        "description": "The Linux distro for the VM. Allowed values: CentOS."
       }
     },
     "vmssName": {
