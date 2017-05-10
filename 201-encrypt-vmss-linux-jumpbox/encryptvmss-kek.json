@@ -11,12 +11,12 @@
     },
     "linuxOSVersion": {
       "type": "string",
-      "defaultValue": "TestUbuntuServer",
+      "defaultValue": "CentOS",
       "allowedValues": [
-        "TestUbuntuServer"
+        "CentOS"
       ],
       "metadata": {
-        "description": "The Linux distro for the VM. Allowed values: TestUbuntuServer."
+        "description": "The Linux distro for the VM. Allowed values: CentOS."
       }
     },
     "vmssName": {
@@ -112,9 +112,9 @@
     "nicName": "[concat(variables('namingInfix'), 'nic')]",
     "ipConfigName": "[concat(variables('namingInfix'), 'ipconfig')]",
     "osType": {
-      "publisher": "AzureRT.PIRCore.TestWAStage",
-      "offer": "TestUbuntuServer",
-      "sku": "14.10",
+      "publisher": "OpenLogic",
+      "offer": "CentOS",
+      "sku": "7.3",
       "version": "latest"
     },
     "imageReference": "[variables('osType')]",
