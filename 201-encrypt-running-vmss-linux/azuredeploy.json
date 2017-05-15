@@ -68,7 +68,7 @@
 	
   },
   "variables": {
-    "encryptVmssUrl": "[concat('https://raw.githubusercontent.com/krkhan/azure-quickstart-templates/suredd-vmss/201-encrypt-running-vmss-linux/encryptvmss-',parameters('useExistingKek'),'.json')]"
+    "encryptVmssUrl": "[concat('https://raw.githubusercontent.com/krkhan/azure-quickstart-templates/vmss/201-encrypt-running-vmss-linux/encryptvmss-',parameters('useExistingKek'),'.json')]"
   },
   "resources": [
     {
