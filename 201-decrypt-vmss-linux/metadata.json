@@ -1,0 +1,7 @@
+{
+  "itemDisplayName": "This template disables encryption on the VM Scale Set of linux VMs.",
+  "description": "This template disables encryption on the VM Scale Set of linux VMs.",
+  "summary": "This template disables encryption on the VM Scale Set of linux VMs.",
+  "githubUsername": "krkhan",
+  "dateUpdated": "2017-04-12"
+}
