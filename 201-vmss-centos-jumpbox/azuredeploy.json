@@ -11,8 +11,9 @@
     },
     "centosOSVersion": {
       "type": "string",
-      "defaultValue": "7.2",
+      "defaultValue": "7.3",
       "allowedValues": [
+        "7.3",
         "7.2",
         "6.8"
       ],

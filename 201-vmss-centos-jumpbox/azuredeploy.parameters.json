@@ -6,7 +6,7 @@
       "value": "Standard_D3"
     },
     "centosOSVersion": {
-      "value": "7.2"
+      "value": "7.3"
     },
     "vmssName": {
       "value": "GEN-UNIQUE-32"
