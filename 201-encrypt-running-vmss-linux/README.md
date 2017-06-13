@@ -1,11 +1,11 @@
-# This template deploys VM Scale Set of Windows VMs with a jumpbox and enables encryption on Windows VMSS
+# This template deploys VM Scale Set of Linux VMs with a jumpbox and enables encryption on Linux VMSS
 
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FSudhakaraReddyEvuri%2Fazure-quickstart-templates%2Fsuredd-vmss%2F201-encrypt-running-vmss-windows%2Fazuredeploy.json" target="_blank">
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fejarvi%2Fazure-quickstart-templates%2Fejarvi-vmss%2F201-encrypt-running-vmss-linux%2Fazuredeploy.json" target="_blank">
     <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>
-<a href="http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2FSudhakaraReddyEvuri%2Fazure-quickstart-templates%2Fsuredd-vmss%2F201-encrypt-running-vmss-windows%2Fazuredeploy.json" target="_blank">
+<a href="http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2Fejarvi%2Fazure-quickstart-templates%2Fejarvi-vmss%2F201-encrypt-running-vmss-linux%2Fazuredeploy.json" target="_blank">
     <img src="http://armviz.io/visualizebutton.png"/>
 </a>
 
-This template enables encryption on a running VM Scale Set of Windows VMs.
+This template enables encryption on a running VM Scale Set of Linux VMs.
 
