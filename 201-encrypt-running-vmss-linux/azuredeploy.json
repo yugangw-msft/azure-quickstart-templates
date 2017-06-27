@@ -68,7 +68,7 @@
 	
   },
   "variables": {
-    "encryptVmssUrl": "[concat('https://raw.githubusercontent.com/krkhan/azure-quickstart-templates/vmss/201-encrypt-running-vmss-linux/encryptvmss-',parameters('useExistingKek'),'.json')]"
+    "encryptVmssUrl": "[concat('https://raw.githubusercontent.com/yugangw-msft/azure-quickstart-templates/vmss/201-encrypt-running-vmss-linux/encryptvmss-',parameters('useExistingKek'),'.json')]"
   },
   "resources": [
     {
